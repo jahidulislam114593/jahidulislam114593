@@ -1,6 +1,6 @@
-#  Jahidul Islam
+#  As-salamu alaykum
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Jahidul+Islam!;I+love+problem+solving...;I'm+also+exploring+Machine+Learning...;And+I'm+a+MERN+Stack+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=This!+is+Jahidul+Islam!;I+love+Problem+solving...;I'm+also+exploring+Machine+Learning...;And+I'm+a+MERN+Stack+Developer!)](https://git.io/typing-svg)
 
 ## About Me
 - 🎓 Computer Science student with a passion for technology and programming.
