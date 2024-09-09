@@ -1,4 +1,4 @@
-#  As-salamu alaykum
+ ## As-salamu alaykum
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=This!+is+Jahidul+Islam!;I+love+Problem+solving...;I'm+also+exploring+Machine+Learning...;And+I'm+a+MERN+Stack+Developer!)](https://git.io/typing-svg)
 
@@ -22,6 +22,6 @@
 [![Book Review](https://github-readme-stats.vercel.app/api/pin/?username=jahidulislam114593&repo=book-review)](https://github.com/jahidulislam114593/book-review)
 
 ## Connect!
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/return_loser/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/return_loser/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisisjahid/)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ji.jahidul001)
