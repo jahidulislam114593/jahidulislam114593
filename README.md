@@ -13,8 +13,8 @@
    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- **Web Development**: MERN Stack (MongoDB, Express, React, Node.js) ![MERN Logo](https://img.shields.io/badge/MERN-Stack-32CD32?style=flat&logo=mongodb&logoColor=white&labelColor=black)
-- **Machine Learning**: Python
+- **Web Development**: ![MERN Logo](https://img.shields.io/badge/MERN-Stack-32CD32?style=flat&logo=mongodb&logoColor=white&labelColor=black)
+- **Machine Learning**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## Projects! 🎨
 
